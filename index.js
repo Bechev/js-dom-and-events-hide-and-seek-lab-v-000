@@ -6,3 +6,8 @@ function getFirstSelector(selector){
 function nestedTarget(target){
   return document.getElementById("#nested .target")
 }
+
+
+function increaseRankBy(n){
+  
+}
